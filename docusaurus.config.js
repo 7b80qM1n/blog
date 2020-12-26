@@ -25,12 +25,8 @@ module.exports = {
           position: "right",
           items: [
             {
-              label: "后端",
-              to: "tags/前端",
-            },
-            {
-              label: "职业",
-              to: "tags/职业",
+              label: "随笔",
+              to: "tags/随笔",
             },
           ],
         },
@@ -109,10 +105,6 @@ module.exports = {
     [
       "@docusaurus/preset-classic",
       {
-        docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/zxuqian/zxuqian.cn/tree/master/docs",
-        },
         blog: {
           path: "./blog",
           routeBasePath: "/",
