@@ -32,7 +32,7 @@ module.exports = {
         },
       
         {
-          href: "https://github.com/zxuqian/zxuqian.cn",
+          href: "https://github.com/7b80qM1n",
           label: "GitHub",
           position: "right",
         },
