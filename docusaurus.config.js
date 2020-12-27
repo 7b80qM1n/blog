@@ -4,7 +4,7 @@ module.exports = {
   title: "oooooooooooo",
   tagline: "-",
   titleDelimiter: "-",
-  url: "https://www.zxuqian.cn",
+  url: "https://www.7b80qm1n.cn/",
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "zxuqian", // Usually your GitHub org/user name.
