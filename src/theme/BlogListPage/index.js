@@ -92,7 +92,7 @@ function BlogListPage(props) {
                 href="https://space.bilibili.com/69871411"
                 className="bloghome__follow"
               >
-                bilibili干杯=( ゜- ゜)つロ 干杯
+                bilibili (゜-゜)つロ 干杯~
               </a>
             </animated.div>
           </div>
