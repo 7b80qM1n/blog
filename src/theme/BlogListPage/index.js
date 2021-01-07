@@ -81,7 +81,7 @@ function BlogListPage(props) {
               Hello! 我是<span className="intro__name">庆民</span>
             </animated.h1>
             <animated.p style={animatedTexts[1]}>
-              这里是我的个人博客，自己的学习历程和相关技术文档都会在这里分享
+              悟已往之不谏，知来者之可追
             </animated.p>
             <animated.p style={animatedTexts[3]}>
 
