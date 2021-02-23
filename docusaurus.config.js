@@ -25,6 +25,18 @@ module.exports = {
           position: "right",
           items: [
             {
+              label: "python",
+              to: "tags/python",
+            },
+            {
+              label: "linux",
+              to: "tags/linux",
+            },
+            {
+              label: "网络编程",
+              to: "tags/网络编程",
+            },
+            {
               label: "随笔",
               to: "tags/随笔",
             },
