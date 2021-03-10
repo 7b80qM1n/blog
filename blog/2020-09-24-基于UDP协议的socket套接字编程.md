@@ -9,6 +9,15 @@ tags: [网络编程,]
 
 ---
 
+#####
+
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+- UDP是无链接的，先启动哪一端都不会报错
+- UDP协议是数据报协议，发空的时候也会自带报头，因此客户端输入空，服务端也能收到
+
+<!-- truncate -->
+
 # 一、UDP套接字简单示例
 
 ## 1.1 服务端
@@ -43,14 +52,6 @@ while True:
 client.close()
 ```
 
-#####
-
-import useBaseUrl from '@docusaurus/useBaseUrl';
-
-- UDP是无链接的，先启动哪一端都不会报错
-- UDP协议是数据报协议，发空的时候也会自带报头，因此客户端输入空，服务端也能收到
-
-<!-- truncate -->
 
 # 三、UPD套接字无粘包问题
 
