@@ -7,8 +7,8 @@ module.exports = {
   url: "https://www.7b80qm1n.cn/",
   baseUrl: "/",
   favicon: "img/favicon.ico",
-  organizationName: "zxuqian", // Usually your GitHub org/user name.
-  projectName: "zxuqian.cn", // Usually your repo name.
+  organizationName: "7b80qM1n", // Usually your GitHub org/user name.
+  projectName: "7b80qM1n.cn", // Usually your repo name.
   stylesheets: ["https://fonts.font.im/css?family=Raleway:500,700"],
   themeConfig: {
     navbar: {
@@ -31,6 +31,10 @@ module.exports = {
             {
               label: "linux",
               to: "tags/linux",
+            },
+            {
+              label: "git",
+              to: "tags/git",
             },
             {
               label: "网络编程",
